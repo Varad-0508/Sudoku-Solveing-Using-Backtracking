@@ -18,13 +18,3 @@ You need to specify the number of number of rows and columns of the smaller box.
 This is implemented for solving higher NxN puzzles where rows are not equal to the columns. 
 Example, for a 12x12 Sudoku Puzzle, each smaller box is 3x4. This also ensures a nice sudoku layout when printed.
 
-# File Format
-3 0 0 4 0 2 0 9 0
-0 0 0 0 0 9 0 6 3
-0 0 7 0 6 3 1 0 0
-0 9 1 7 2 6 0 8 0
-0 0 0 9 0 1 0 0 0
-0 2 0 3 8 5 9 1 0
-0 0 8 1 9 0 2 0 0
-6 7 0 2 0 0 0 0 0
-0 3 0 6 0 4 0 0 9
